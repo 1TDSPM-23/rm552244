@@ -1,6 +1,7 @@
 /* =============================== */
 @import url("./cabecalho.css");
 @import url("./conteudo.css");
+@import url("./style-627x.css");
 /* =============================== */
 
 *{
@@ -18,3 +19,4 @@ html{
     font-size: 5rem;
     margin: 5% 0;
 }
+
