@@ -9,6 +9,16 @@
     flex-wrap: wrap;
 }
 
+.oper-calc{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.result-calc{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .btn-calc button{
     flex-grow: 1;
     margin: 2% 0;
