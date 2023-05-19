@@ -16,3 +16,29 @@
     flex-basis: 300px; */
     flex: 1 1 300px;
 }
+
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table th,td{
+    border: 2px solid #dddd;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #ccc;
+}
+tr:nth-child(odd){
+    background-color: rgba(128, 95, 95, 0.867);
+}
+
+tr:nth-child(1){
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+tr:hover{
+    background: #131212af;
+}
